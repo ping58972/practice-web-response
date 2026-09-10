@@ -1,56 +1,33 @@
-# My Portfolio
+# Responsive Portfolio Web Practice
 
-<a href="https://ping58972.github.io/practice-web-response/"><img src="https://a.imge.to/2019/07/12/qyZjG.png" target="_blank" alt="Reaponse Website"></a>
-<a href="https://ping58972.github.io/practice-web-response/"><img src="https://a.imge.to/2019/07/12/qyHRZ.png" target="_blank" alt="Reaponse Website"></a>
-<a href="https://ping58972.github.io/practice-web-response/"><img src="https://a.imge.to/2019/07/12/qy58t.png" target="_blank" alt="Reaponse Website"></a>
+A front-end practice website focused on responsive layout, portfolio presentation, Sass organization, navigation, project cards, contact sections, and mobile-friendly styling.
 
-The purpose of website is for practice front-end skill with vary technology. And practice how to design a website page, etc.
+## What I built
 
-## Built with
+- Designed a multi-section portfolio interface with home, about, projects, and contact content.
+- Created responsive layouts using CSS Grid and Flexbox.
+- Organized Sass into configuration, navigation, main styles, and mobile styles.
+- Added reusable color, typography, spacing, hover, transition, and responsive-layout rules.
+- Configured local Sass watch mode and GitHub Pages deployment.
 
-- [HTML5](#) - The web framework used.
-- [SASS](#) - The web framework used.
-- [Javascript](#) - Used to implement MongoDB.
-- More detail... see package.json
+## Technology stack and skills
 
-## Getting Started
+- **Languages and markup:** HTML5, JavaScript, CSS3, Sass/SCSS, and Markdown.
+- **Front-end techniques:** CSS Grid, Flexbox, responsive breakpoints, reusable Sass variables/mixins, pseudo-classes, transitions, image presentation, and semantic page sections.
+- **Tooling:** Node.js, npm, Node Sass, gh-pages, and browser developer tools.
+- **Engineering skills:** responsive web design, visual hierarchy, component-like styling organization, front-end debugging, asset management, build scripts, and static deployment.
 
-### Prerequisites
+## Run locally
 
-Nodejs with npm - lastest version.
-
-```
-Nodejs 12.6.0
-```
-
-### Installing
-
-Download or clone the repository, then
-
-```
+```bash
+git clone https://github.com/ping58972/practice-web-response.git
+cd practice-web-response
 npm install
-```
-
-And start open the projects for developing. It will go to http://localhost:9000
-
-```
 npm run sass
 ```
 
-## Deployment
+The Sass watcher compiles scss/ into dist/css/. The deployed site is available at [ping58972.github.io/practice-web-response](https://ping58972.github.io/practice-web-response/).
 
-or you can go to <a href="https://ping58972.github.io/practice-web-response/">personal website</a> that had been deployed to show the result of this project.
+## Author
 
-## Authors
-
-- **(Ping) Nalongsone Daddank** - _Initial work_ - [ping58972](https://github.com/ping58972)
-
-## License
-
-This project is licensed under the MIT License
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+**(Ping) Nalongsone Dandank** — [ping58972](https://github.com/ping58972)
